@@ -1,7 +1,8 @@
 # Data Analyst
 
-###Education
+### Education
 
-###Work Experience
+### Work Experience
 
-###Projects
+### Projects
+- PetMind Business Implementation Strategies
